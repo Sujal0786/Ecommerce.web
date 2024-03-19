@@ -510,7 +510,7 @@ button.swiper-pagination-bullet {
 	touch-action: none;
 }
 .swiper .swiper-notification,
-swiper-container .swiper-notification {
+.swiper-container .swiper-notification {
 	position: absolute;
 	left: 0;
 	top: 0;
